@@ -1,4 +1,4 @@
-# FormPage
+# Issue_Card
 It is a Bootstrap form page, its work captures live images, uploads documents, and prints/downloads form page. It has a navigation bar, submit modal, customize radio button and so on. 
 
 ![Screenshot (100)](https://github.com/divyapuja1998/FormPage/assets/63939773/14b44ff5-666d-40d0-bebf-d96ac8de3cf4)
